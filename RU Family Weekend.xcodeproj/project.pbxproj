@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE106AEF2631ABA600BAA5CE /* SponsorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE106AEE2631ABA600BAA5CE /* SponsorsViewController.swift */; };
+		CE106AF42631AF5900BAA5CE /* TwitterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE106AF32631AF5900BAA5CE /* TwitterViewController.swift */; };
+		CE106AF92631B08700BAA5CE /* FacebookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE106AF82631B08700BAA5CE /* FacebookViewController.swift */; };
+		CE106AFE2631B09E00BAA5CE /* TicketsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE106AFD2631B09E00BAA5CE /* TicketsViewController.swift */; };
+		CE106B032631B0B000BAA5CE /* FWwebsiteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE106B022631B0B000BAA5CE /* FWwebsiteViewController.swift */; };
+		CE20E1C9263AF3C600821518 /* FridayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE20E1C8263AF3C600821518 /* FridayViewController.swift */; };
+		CE20E1CE263AF5D200821518 /* ScheduleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE20E1CD263AF5D200821518 /* ScheduleViewController.swift */; };
+		CE20E1D3263AFC6400821518 /* SaturdayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE20E1D2263AFC6400821518 /* SaturdayViewController.swift */; };
+		CE20E1D8263AFD5D00821518 /* SundayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE20E1D7263AFD5D00821518 /* SundayViewController.swift */; };
 		CE24BC3E262DCA1200E8D6F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24BC3D262DCA1200E8D6F6 /* AppDelegate.swift */; };
 		CE24BC40262DCA1200E8D6F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24BC3F262DCA1200E8D6F6 /* SceneDelegate.swift */; };
 		CE24BC42262DCA1200E8D6F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE24BC41262DCA1200E8D6F6 /* ViewController.swift */; };
@@ -35,6 +44,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE106AEE2631ABA600BAA5CE /* SponsorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SponsorsViewController.swift; sourceTree = "<group>"; };
+		CE106AF32631AF5900BAA5CE /* TwitterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterViewController.swift; sourceTree = "<group>"; };
+		CE106AF82631B08700BAA5CE /* FacebookViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacebookViewController.swift; sourceTree = "<group>"; };
+		CE106AFD2631B09E00BAA5CE /* TicketsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketsViewController.swift; sourceTree = "<group>"; };
+		CE106B022631B0B000BAA5CE /* FWwebsiteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FWwebsiteViewController.swift; sourceTree = "<group>"; };
+		CE20E1C8263AF3C600821518 /* FridayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FridayViewController.swift; sourceTree = "<group>"; };
+		CE20E1CD263AF5D200821518 /* ScheduleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleViewController.swift; sourceTree = "<group>"; };
+		CE20E1D2263AFC6400821518 /* SaturdayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaturdayViewController.swift; sourceTree = "<group>"; };
+		CE20E1D7263AFD5D00821518 /* SundayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SundayViewController.swift; sourceTree = "<group>"; };
 		CE24BC3A262DCA1200E8D6F6 /* RU Family Weekend.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RU Family Weekend.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE24BC3D262DCA1200E8D6F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE24BC3F262DCA1200E8D6F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +121,15 @@
 				CE24BC3F262DCA1200E8D6F6 /* SceneDelegate.swift */,
 				CE24BC41262DCA1200E8D6F6 /* ViewController.swift */,
 				CE24BC43262DCA1200E8D6F6 /* Main.storyboard */,
+				CE20E1D2263AFC6400821518 /* SaturdayViewController.swift */,
+				CE20E1D7263AFD5D00821518 /* SundayViewController.swift */,
+				CE20E1C8263AF3C600821518 /* FridayViewController.swift */,
+				CE20E1CD263AF5D200821518 /* ScheduleViewController.swift */,
+				CE106AF82631B08700BAA5CE /* FacebookViewController.swift */,
+				CE106AFD2631B09E00BAA5CE /* TicketsViewController.swift */,
+				CE106B022631B0B000BAA5CE /* FWwebsiteViewController.swift */,
+				CE106AEE2631ABA600BAA5CE /* SponsorsViewController.swift */,
+				CE106AF32631AF5900BAA5CE /* TwitterViewController.swift */,
 				CE24BC46262DCA1400E8D6F6 /* Assets.xcassets */,
 				CE24BC48262DCA1400E8D6F6 /* LaunchScreen.storyboard */,
 				CE24BC4B262DCA1400E8D6F6 /* Info.plist */,
@@ -258,9 +285,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE20E1D8263AFD5D00821518 /* SundayViewController.swift in Sources */,
 				CE24BC42262DCA1200E8D6F6 /* ViewController.swift in Sources */,
+				CE106AFE2631B09E00BAA5CE /* TicketsViewController.swift in Sources */,
+				CE106AEF2631ABA600BAA5CE /* SponsorsViewController.swift in Sources */,
+				CE20E1D3263AFC6400821518 /* SaturdayViewController.swift in Sources */,
+				CE106AF92631B08700BAA5CE /* FacebookViewController.swift in Sources */,
+				CE106AF42631AF5900BAA5CE /* TwitterViewController.swift in Sources */,
+				CE20E1CE263AF5D200821518 /* ScheduleViewController.swift in Sources */,
+				CE20E1C9263AF3C600821518 /* FridayViewController.swift in Sources */,
 				CE24BC3E262DCA1200E8D6F6 /* AppDelegate.swift in Sources */,
 				CE24BC40262DCA1200E8D6F6 /* SceneDelegate.swift in Sources */,
+				CE106B032631B0B000BAA5CE /* FWwebsiteViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
