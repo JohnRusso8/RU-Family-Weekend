@@ -2,7 +2,7 @@
 //  ScheduleViewController.swift
 //  RU Family Weekend
 //
-//  Created by User on 4/29/21.
+//  Created by John Russo on 4/29/21.
 //
 
 import UIKit
